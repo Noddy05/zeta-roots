@@ -42,8 +42,7 @@ namespace ComplexNumbers
                 ComplexNumber currentValue = XiFunction(index * stepSize);
                 if (previousValue.Magnitude() <= epsilon &&
                     MathF.Sign(ComplexNumber.Im(previousValue))
-                    != MathF.Sign(ComplexNumber.Im(currentValue)) &&
-                    ComplexNumber.Re(currentValue) != 0)
+                    != MathF.Sign(ComplexNumber.Im(currentValue)))
                 {
                     roots++;
                     Console.WriteLine($"Root #{roots} between: xi({(index - 1) * stepSize}) " +
@@ -53,7 +52,8 @@ namespace ComplexNumbers
                     Console.WriteLine();
                     stringBuilder.Append($"Root #{roots} between: xi({(index - 1) * stepSize}) " +
                         $"and xi({index * stepSize})\n");
-                    File.WriteAllText("/Users/noahdirksen/Downloads/complex-numbers-main 2/Zeros.txt", stringBuilder.ToString());
+                    File.WriteAllText(@"C:\Users\noah0\source\repos\OpenGL Math\zeta-roots\Zeros.txt", 
+                        stringBuilder.ToString());
                     Thread.Sleep(0);
                 }
                 previousValue = currentValue.Copy();

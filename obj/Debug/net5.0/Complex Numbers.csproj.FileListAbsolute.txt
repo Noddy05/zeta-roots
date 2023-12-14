@@ -1,0 +1,15 @@
+C:\Users\noah0\source\repos\OpenGL Math\zeta-roots\bin\Debug\net5.0\Complex Numbers.exe
+C:\Users\noah0\source\repos\OpenGL Math\zeta-roots\bin\Debug\net5.0\Complex Numbers.deps.json
+C:\Users\noah0\source\repos\OpenGL Math\zeta-roots\bin\Debug\net5.0\Complex Numbers.runtimeconfig.json
+C:\Users\noah0\source\repos\OpenGL Math\zeta-roots\bin\Debug\net5.0\Complex Numbers.runtimeconfig.dev.json
+C:\Users\noah0\source\repos\OpenGL Math\zeta-roots\bin\Debug\net5.0\Complex Numbers.dll
+C:\Users\noah0\source\repos\OpenGL Math\zeta-roots\bin\Debug\net5.0\Complex Numbers.pdb
+C:\Users\noah0\source\repos\OpenGL Math\zeta-roots\obj\Debug\net5.0\Complex Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noah0\source\repos\OpenGL Math\zeta-roots\obj\Debug\net5.0\Complex Numbers.AssemblyInfoInputs.cache
+C:\Users\noah0\source\repos\OpenGL Math\zeta-roots\obj\Debug\net5.0\Complex Numbers.AssemblyInfo.cs
+C:\Users\noah0\source\repos\OpenGL Math\zeta-roots\obj\Debug\net5.0\Complex Numbers.csproj.CoreCompileInputs.cache
+C:\Users\noah0\source\repos\OpenGL Math\zeta-roots\obj\Debug\net5.0\Complex Numbers.dll
+C:\Users\noah0\source\repos\OpenGL Math\zeta-roots\obj\Debug\net5.0\refint\Complex Numbers.dll
+C:\Users\noah0\source\repos\OpenGL Math\zeta-roots\obj\Debug\net5.0\Complex Numbers.pdb
+C:\Users\noah0\source\repos\OpenGL Math\zeta-roots\obj\Debug\net5.0\Complex Numbers.genruntimeconfig.cache
+C:\Users\noah0\source\repos\OpenGL Math\zeta-roots\obj\Debug\net5.0\ref\Complex Numbers.dll
